@@ -1,0 +1,15 @@
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\bin\Debug\net6.0\EvidencePojistenych1.exe
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\bin\Debug\net6.0\EvidencePojistenych1.deps.json
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\bin\Debug\net6.0\EvidencePojistenych1.runtimeconfig.json
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\bin\Debug\net6.0\EvidencePojistenych1.dll
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\bin\Debug\net6.0\EvidencePojistenych1.pdb
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\obj\Debug\net6.0\EvidencePojistenych1.csproj.AssemblyReference.cache
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\obj\Debug\net6.0\EvidencePojistenych1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\obj\Debug\net6.0\EvidencePojistenych1.AssemblyInfoInputs.cache
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\obj\Debug\net6.0\EvidencePojistenych1.AssemblyInfo.cs
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\obj\Debug\net6.0\EvidencePojistenych1.csproj.CoreCompileInputs.cache
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\obj\Debug\net6.0\EvidencePojistenych1.dll
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\obj\Debug\net6.0\refint\EvidencePojistenych1.dll
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\obj\Debug\net6.0\EvidencePojistenych1.pdb
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\obj\Debug\net6.0\EvidencePojistenych1.genruntimeconfig.cache
+C:\Users\navra\Dropbox\rekvalifikace IT\ITNetwork základy\Projekt ke zkoušce\Pojistění_jednoduchá verze\Testovací\EvidencePojistenych1\EvidencePojistenych1\obj\Debug\net6.0\ref\EvidencePojistenych1.dll
